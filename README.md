@@ -6,7 +6,7 @@ This timer application for Android is designed to gently wake you from your medi
 2. press start & lock your device
 3. after the selected period has passed, the phone will wake and show an animated color gradient
 
-![alt text](https://j3v3hw.db.files.1drv.com/y4mCjzutB6jgFtBUEcSsyu7jH74eCus5Rg60RUyLIFR4cRAQT6mMduYNV0CkphXDOjPHy_QcdoDZ_cJ2QD0bFbtRE2Yu5LoojNcCAiHsi5i48uca3rw_SYhwsMoc24Zjh1Erg01gJiorTTD0_KDKDzdiQjkurU3gtu5dWpAOhRODPKR4JaEBoOeLM2zFEeXmo958D3rtQsXEEQh7VOq6isHMw)
+![alt text](https://lnwmwq.db.files.1drv.com/y4mu0zMm1U4XEZ4FkyQG3HGZpzj90E-HAvqShn1eMo1PKNtcnzi71cYOLbQIq0Nj7euowfzBvG6NjiPLoXO70c4GjXEvOVaAxeNitPdap8HNdw3f794zyNN5iL95mgM9F94BkHlPSFgNB2GI3F9srWpBhOkm7CsP-el7WLTk1etiIyth5H2pGAt11-0QBfKzSmye8vZKNdJWubEzTqaK_athw)
 
 # Download
 https://drive.google.com/file/d/1ij1TMGwmiZwqN2OPPqBHajyr5LVdlLmi/view?usp=sharing
